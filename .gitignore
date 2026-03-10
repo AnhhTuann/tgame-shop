@@ -1,0 +1,7 @@
+node_modules/
+vendor/
+wp-content/uploads/
+wp-config.php
+.env
+db_data
+wp_data
